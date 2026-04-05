@@ -1,0 +1,16 @@
+//////////////////////////////////////////////////////////////////////
+//
+//  File name :     Program3.c
+//  Descreption :   Get age and Display ticket prize
+//  Author :        Pratap Sanjay Patil
+//  Date :          05/04/2026
+//
+//////////////////////////////////////////////////////////////////////
+
+#include<stdio.h>
+
+int main()
+{
+
+    return 0;
+}
