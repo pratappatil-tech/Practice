@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program7.c
-//  Descreption :   Get a Number from user and Display 5 times along with its index
+//  File name :     Program8.c
+//  Descreption :   take the no as a input from the user and print hello that no times
 //  Author :        Pratap Sanjay Patil
 //  Date :          07/04/2026
 //
@@ -12,9 +12,9 @@
 void Display(int iNo)
 {
     int iCnt = 0;
-    for(iCnt = 1; iCnt <= 5; iCnt++)
+    for(iCnt = 1; iCnt <= iNo; iCnt++)
     {
-        printf("%d : %d\n",iCnt ,iNo);
+        printf("%d : Hello\n",iCnt);
     }
 }
 
