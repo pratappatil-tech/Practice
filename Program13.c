@@ -3,7 +3,7 @@
 //  File name :     Program13.c
 //  Descreption :   take value from user and Give factorial
 //  Author :        Pratap Sanjay Patil
-//  Date :          07/04/2026
+//  Date :          08/04/2026
 //
 ///////////////////////////////////////////////////////////////////////////////////////
 
